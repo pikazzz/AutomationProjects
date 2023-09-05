@@ -1,0 +1,21 @@
+{
+  "nombre": "Ivan",
+  "apellido": "Bratko",
+  "email": "ivanbrakto@cypress.net",
+  "sexo": "Male",
+  "telefono": "3333333333",
+  "fechaDeNacimiento": [
+    "January",
+    "1990",
+    "29"
+  ],
+  "materia":"English",
+  "hobbies": [
+    "Sports",
+    "Music"
+  ],
+  "imagen": "my-image.png",
+  "direccion": "Calle Falsa 123",
+  "estado": "NCR",
+  "ciudad": "Delhi"
+}
